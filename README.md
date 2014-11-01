@@ -3,3 +3,4 @@ README First
 test
 
  - feature-A
+ - fix B
